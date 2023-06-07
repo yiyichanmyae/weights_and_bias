@@ -9,3 +9,6 @@ Slides: http://wandb.me/mlops-zoomcamp
 2. [Diving Deeper into Weights & Biases Offerings](https://colab.research.google.com/github/soumik12345/mlops-zoomcamp-wandb/blob/main/01_diving_deeper_into_wandb.ipynb)
 
 3. [Hyperparameter Optimization with Weights & Biases](./02_hyperparameter_optimization.py)
+
+
+Reference : https://github.com/soumik12345/mlops-zoomcamp-wandb
